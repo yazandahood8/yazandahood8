@@ -21,7 +21,6 @@
 
 ## 🚀 My Statistics:
 
-![Yazan Dawud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yazandahood8&show_icons=true&theme=tokyonight)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yazandahood8&theme=tokyonight" alt="GitHub Streak" /></a>
 ![Yazan Dawud's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yazandahood8&theme=tokyonight&layout=compact)
 
