@@ -1,66 +1,94 @@
-**<h1 align="center">Hello There! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
-
-### My name is Yazan Dawud, a Software Engineer with a B.Sc. in Computer Science and a passion for Full-Stack Developer.
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
----
-
-## 👨‍💻 About Me:
-- 🎓 Computer Science student at Tel Hai Academic College (GPA: 85).
-- 💻 Practical Software Engineering graduate from Braude College (GPA: 92).
-- 🔭 Currently working on innovative backend projects using Django, Flask, PostgreSQL, and Docker.
-- 🌱 Learning advanced deployment strategies, microservices, and Kubernetes.
-- 👯 Passionate about collaborating on impactful projects and solving challenging problems.
-- 🏆 Creator of projects like:
-  - [Flask-Backend-Project](https://github.com/yazandahood8/Flask-Backend-Project): AI-driven chatbot backend with OpenAI API.
-  - [Gym Project](https://github.com/yazandahood8/Gym_Project): Full-stack gym management app.
-  - "Student's Needs": Comprehensive academic assistance app.
+<h1 align="center">Hi, I'm <b>Yazan Dawud</b> 👋</h1>
+<p align="center">
+  <b>Full-Stack Software Engineer</b> — Angular · Java/Spring Boot · Flask/Django · Docker · REST APIs
+</p>
 
 ---
 
-## 🚀 My Statistics:
+<details>
+<summary><b>About Me</b></summary>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yazandahood8&theme=tokyonight" alt="GitHub Streak" /></a>
-![Yazan Dawud's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yazandahood8&theme=tokyonight&layout=compact)
-
----
-
-## 💼 Technical Skills:
-- **Languages**: Python, Java, C++, SQL, JavaScript, HTML, CSS.
-- **Frameworks**: Django, Flask, Android (Java/XML), Node.js.
-- **Databases**: PostgreSQL, MySQL, Firebase.
-- **Tools**: Docker, Git, REST APIs.
-- **Frontend**: Bootstrap, TypeScript.
-- **Deployment**: Dockerized setups and CI/CD pipelines.
+- Full-stack engineer focused on **scalable, high-performance** web apps.
+- Product Developer at **BMC** (Control-M): real-time dashboards, WebSockets, NgRx, performance tuning.
+- Previous: **MindoLife** (backend + ML integrations), **Tel-Hai** tutor (Java/C).
+- I care about **clean code, DX, and measurable impact** (perf wins, stability, maintainability).
+</details>
 
 ---
 
-## 🌐 Connect With Me:
-<a href="https://www.linkedin.com/in/yazan-dahood-031145309/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt=LinkedIn />
-</a>
-<a href="mailto:dahood.yazan8@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-dahood.yazan8@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=Gmail />
-</a>
+<details>
+<summary><b>Tech Stack</b></summary>
+
+**Languages:** Java, Python, JavaScript/TypeScript, C/C++, SQL, HTML/CSS  
+**Frontend:** Angular, React, RxJS, NgRx, Bootstrap  
+**Backend:** Spring Boot, Flask, Django, Node.js/Express  
+**Data:** PostgreSQL, MySQL, Firebase  
+**DevOps & Tools:** Docker, Git/GitLab CI/CD, REST APIs, WebSockets, Jest, Cypress, Pytest  
+**Practices:** Clean Architecture, CI/CD, Code Review, Testing, Agile (Jira/Slack)
+</details>
 
 ---
 
-## 📂 Featured Projects:
-### 🧠 [Flask-Backend-Project](https://github.com/yazandahood8/Flask-Backend-Project)
-- Built a Flask backend with OpenAI API integration for intelligent chatbot interactions.
-- Implemented PostgreSQL database with scalable Dockerized architecture.
+<details>
+<summary><b>Impact Highlights</b></summary>
 
-### 🎓 [Student's Needs](https://github.com/yazandahood8/)
-- Java-based academic assistance app for students, including career planning, academic progress tracking, and campus navigation.
-
-### 🏋️‍♂️ [Gym Project](https://github.com/yazandahood8/Gym_Project)
-- Full-stack web app for gym management with features like scheduling, subscriptions, and analytics.
+- ⚡ Improved heavy Angular views’ load time by **~45%** via lazy loading, state optimization, and change-detection tuning.  
+- 📈 Backend performance boosts of **~20%** through API design, profiling, and targeted refactors.  
+- 🎓 Mentored students to top grades; shipped reliable features across teams under tight timelines.
+</details>
 
 ---
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<details>
+<summary><b>Featured Projects</b></summary>
 
-## 📧 Reach Out:
-Feel free to connect or drop an email! Let's build something amazing together!
-**
+### 🔹 <a href="https://github.com/yazandahood8/Flask-Backend-Project">Flask-Backend-Project</a>
+Intelligent chatbot backend using **Flask + OpenAI API + PostgreSQL**, containerized with **Docker**.
+
+### 🔹 <a href="https://github.com/yazandahood8/Gym_Project">Gym Project</a>
+Full-stack gym management: **scheduling, subscriptions, analytics**, and admin flows.
+
+### 🔹 Student’s Needs
+Java-based academic assistance app: **career planning, progress tracking, campus navigation**.
+</details>
+
+---
+
+<details>
+<summary><b>Experience (Compact)</b></summary>
+
+**BMC — Product Developer (2025–Now)**  
+Angular (v13+), RxJS, NgRx, WebSockets, REST, Jest, Cypress, GitLab CI/CD, Docker.  
+Shipped real-time monitoring & SLA dashboards; led UI performance improvements.
+
+**MindoLife — Full-Stack Developer (2023–2024)**  
+Django/Flask/Node.js backends, Angular/React frontends, ML model integration into APIs.
+
+**Tel-Hai College — Java & C Tutor (2023–2024)**  
+Mentored 1st-year students; debugging, code quality, and CS fundamentals.
+</details>
+
+---
+
+<details>
+<summary><b>GitHub Stats</b></summary>
+
+<p>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=yazandahood8&theme=tokyonight" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazandahood8&theme=tokyonight&layout=compact" alt="Top Languages"/>
+</p>
+</details>
+
+---
+
+<details>
+<summary><b>Contact</b></summary>
+
+- LinkedIn: <a href="https://www.linkedin.com/in/yazandawud/">yazandawud</a>  
+- Email: <a href="mailto:dahood.yazan8@gmail.com">dahood.yazan8@gmail.com</a>
+</details>
