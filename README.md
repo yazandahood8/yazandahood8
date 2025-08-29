@@ -1,4 +1,4 @@
-<h1 align="center">Hello There! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+**<h1 align="center">Hello There! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
 ### My name is Yazan Dawud, a Software Engineer with a B.Sc. in Computer Science and a passion for Full-Stack Developer.
 
@@ -63,3 +63,4 @@
 
 ## 📧 Reach Out:
 Feel free to connect or drop an email! Let's build something amazing together!
+**
